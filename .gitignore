@@ -1,2 +1,2 @@
-celeba\*
-celeba_dataset\*
+celeba/*
+celeba_dataset/*
